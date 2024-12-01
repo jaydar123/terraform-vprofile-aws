@@ -1,2 +1,1 @@
-# terraform-vprofile-aws
-terraform project
+Terraform vprofile project for learning
